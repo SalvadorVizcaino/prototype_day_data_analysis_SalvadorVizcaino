@@ -1,0 +1,1 @@
+Este Programita consulta mediante ODBC la base de shift_hauls, procesa las distancias por tipo de pendiente y devuelve un archivo .csv.
